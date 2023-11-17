@@ -18,3 +18,7 @@ How to use:
 4 - Use ImageDemo.py to plot the weights and test the algorithms.
 
 Remember: The objective of the ensemble functions are to optimize the Binary Cross Entropy on the validation data, this behaviour may cause overfitting, making the algorithm worse on other images.
+
+Datasets:
+Car Dataset: https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition
+Weather Dataset: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset/data
